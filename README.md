@@ -26,7 +26,7 @@ SocialCraft is a modern web application that helps content creators generate opt
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/socialcraft.git
+git clone https://github.com/katcoderr/socialcraft.git
 ```
 
 2. Install dependencies:
